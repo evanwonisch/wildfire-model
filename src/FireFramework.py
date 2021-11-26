@@ -12,7 +12,7 @@ class NeighbourState:
         return self.param[i]
     
     def getRelativeVector(self):
-        return self.relative
+        return self.relativevector
 
 class CellState:
     def __init__(self, param_names, param):
