@@ -1,2 +1,4 @@
 # wildfire-model
-Hier ist mein Thread zu sehen.
+
+Hier ist unser aktuelles Modell gespeichert.
+
