@@ -5,4 +5,4 @@ Zusätzliches Kartenmaterial kann unter https://viewer.esa-worldcover.org/worldc
 Entsprechende Methoden zum Import sind im Notebook "Framework_Karten_Test" implementiert.
 Fuelparameter müssen noch angepasst werden.
 
-DAs aktuelle Modell findet sich in "Hauptmodell"
+Das aktuelle Modell findet sich in "Hauptmodell"
