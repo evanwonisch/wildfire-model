@@ -1,6 +1,8 @@
 # wildfire-model
-Dies ist der Hauptthread (Branch) des Projekts (main).
-Am besten legt jeder eine eigene Branch mit seinem Namen an. 
-Im Ordner "src" findet Ihr das Framework. Hier im Hauptordner ist eine Beispielimplementierung für ein Modell gegeben.
+Dies ist der Thread von Jonathan.
+Im Ordner "Kartenmaterial" befindet sich Material des "ESA World Cover" Kartenmaterials. 
+Zusätzliches Kartenmaterial kann unter https://viewer.esa-worldcover.org/worldcover heruntergeladen werden.
+Entsprechende Methoden zum Import sind im Notebook "Framework_Karten_Test" implementiert.
+Fuelparameter müssen noch angepasst werden.
 
-Unser aktuelles Modell findet man in "Hauptmodell"
+Das aktuelle Modell findet sich in "Hauptmodell"
