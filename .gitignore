@@ -1,5 +1,4 @@
 .ipynb_checkpoints
-frames
+data
+result/*
 *.pyc
-output
-
